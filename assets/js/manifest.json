@@ -1,0 +1,23 @@
+{
+  "short_name": "Shopi",
+  "name": "Shopi",
+  "id": "/assets/js/",
+  "icons": [
+    {
+      "src": "https://kuligaposten.bss.design/assets/img/icon_192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://kuligaposten.bss.design/assets/img/icon_512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/assets/js/",
+  "background_color": "#000000",
+  "theme_color": "#f1f1f1",
+  "display": "standalone"
+}

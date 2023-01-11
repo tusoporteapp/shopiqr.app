@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "app.shopiqr.twa",
+                     "sha256_cert_fingerprints": ["5D:5B:F3:C8:F3:33:54:11:EF:78:AF:B9:A2:C8:55:66:F7:88:41:6B:3C:73:EC:8F:70:AC:36:2C:84:CE:31:D9"] }
+      }
+]
